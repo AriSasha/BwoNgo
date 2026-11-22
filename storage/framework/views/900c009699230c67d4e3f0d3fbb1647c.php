@@ -1,0 +1,2 @@
+<?php if($band): ?><span class="chip bg-<?php echo e(\App\Support\Screening::toneFor($band)); ?>"><?php echo e($band); ?></span><?php endif; ?>
+<?php /**PATH D:\Laravel\PROJECTS\bwongo\resources\views/partials/band.blade.php ENDPATH**/ ?>

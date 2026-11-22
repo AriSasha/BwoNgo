@@ -1,0 +1,2 @@
+<p class="disclaimer">BwoNgo is a screening tool, not a diagnosis. It uses the PHQ-9 (depression) and GAD-7 (anxiety) questionnaires. Only a qualified counselor or clinician can tell you what your answers mean for you.</p>
+<?php /**PATH D:\Laravel\PROJECTS\bwongo\resources\views/partials/disclaimer.blade.php ENDPATH**/ ?>
